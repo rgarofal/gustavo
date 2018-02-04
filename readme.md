@@ -1,4 +1,5 @@
-# Getting MEAN application code
+# Getting MEAN application code - rgarofal 
+# base per implementare GUSTAVO
 
 This is the code for the sample 'Loc8r' application that is built through the course of my book [Getting MEAN](https://www.manning.com/books/getting-mean-with-mongo-express-angular-and-node).
 
